@@ -9,6 +9,7 @@
 2. 해당 branch 이동
 3. git add, commit, push 진행
 ```
+git branch
 git branch MMDD
 git checkout MMDD
 git add .
@@ -21,11 +22,12 @@ git push origin MMDD
 0. 해당 Forked Repo Github 사이트 들어가기
 (https://github.com/abby-kimm/KTB_Abby) 
 1. Open Pull & Request
-2. Reviewer 지정 및 코드 검토
+2. Reviewer 지정
 3. Pull & Request
+4. Merge Request
 
-<b>Forked Repository - Main Branch 갱신</b>
-1. Main Branch github 사이트에서 Sync fork 안에 버튼 눌러서 갱신
+<b>Forked Repository의 Main Branch 갱신</b>
+1. Sync fork 누르고 Update
 2. 터미널에서 브랜치 삭제
 3. Origin Repo에서 Pull 땡겨와서 Forked Repository 업데이트
 ```
